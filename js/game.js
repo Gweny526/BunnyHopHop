@@ -88,9 +88,9 @@ function preload() {
     this.load.image('car3', './assets/images/snowCar.png');
  
     //starting screen
-    this.load.image('titleScreen', './assets/images/TitleScreen.png')
-   //play button
-   this.load.image('playButtonIcon', './assets/images/playButton.webp')
+    this.load.image('titleScreen', './assets/images/TitleScreenB.png')
+    //play button
+    this.load.image('playButtonIcon', './assets/images/playButton.webp')
     // sounds
     this.load.audio('croac', './assets/audio/coaac.wav')
     this.load.audio('smashed', './assets/audio/smashed.wav');
