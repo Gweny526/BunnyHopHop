@@ -254,7 +254,7 @@ function update() {
  
 function resetFrogPosition(){
     deadBunnyImage.x = -1000;
-    bunnyImage.setPosition(Phaser.Math.Between(1,30)*16,312);
+    bunnyImage.setPosition(8+Phaser.Math.Between(0,29)*16,312);
    
 }
  
